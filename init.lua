@@ -1,7 +1,7 @@
 wifi.setmode(wifi.STATION)
 station_cfg={}
-station_cfg.ssid="--SSID--"
-station_cfg.pwd="--WPA2-KEY--"
+station_cfg.ssid="YOURSSID"
+station_cfg.pwd="PASSWORD"
 station_cfg.save=true
 wifi.sta.config(station_cfg)
 -- Initialize variables
