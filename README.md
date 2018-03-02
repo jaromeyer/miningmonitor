@@ -20,7 +20,8 @@ Again you can use your preferred tool but I recommend [ESPlorer](https://esp8266
 
 ## Authors
 
-* **Jaro Meyer** - *Initial work* - [o0pwnd0o](https://github.com/o0pwnd0o)
+* **kieranc** - *Initial work* - [kieranc](https://hackaday.io/KieranC001)
+* **Jaro Meyer** - *Adding support for Ethereum and nanopool api* - [o0pwnd0o](https://github.com/o0pwnd0o)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
