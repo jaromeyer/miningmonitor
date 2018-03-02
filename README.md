@@ -16,7 +16,7 @@ You can either use the included NodeMCU build or make your own at https://nodemc
 
 ### Uploading the code
 
-Again you can use your preferred tool but I recommend [ESPlorer](https://esp8266.ru/esplorer). In ESPlorer, open the 3 LUA files in the left part, connect to your ESP8266 (sometimes you have to reset the ESP8266 for the tool to recognise it) and click "Save to ESP" for each of the 3 files. Also don't forget to set your SSID and password before you upload init.lua!
+Again you can use your preferred tool but I recommend [ESPlorer](https://esp8266.ru/esplorer). In ESPlorer, open the 3 LUA files in the left part, connect to your ESP8266 (sometimes you have to reset the ESP8266 for the tool to recognise it), set your SSID and password in init.lua and your Ethereum Wallet address for your Nanopool account in getrates.lua and click "Save to ESP" for each of the 3 files.
 
 ## Authors
 
