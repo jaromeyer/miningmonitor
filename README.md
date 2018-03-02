@@ -1,6 +1,6 @@
 # miningmonitor
 
-A simple ESP8266 program to show Ethereum price and stats from your mining rig running on nanopool on a OLED display. I is based on this project: https://hackaday.io/project/28610-crypto-ticker.
+A simple ESP8266 program to show Ethereum price and stats from your mining rig running on nanopool on an OLED display. It is based on this project: https://hackaday.io/project/28610-crypto-ticker.
 
 ## Getting Started
 
@@ -17,3 +17,13 @@ You can either use the included NodeMCU build or make your own at nodemcu-build.
 ### Uploading the code
 
 Again you can use your preffered tool but I recommend [ESPlorer](https://esp8266.ru/esplorer). In ESPlorer, open the 3 LUA files in the left part, connect to your ESP8266 (sometimes you have to reset the ESP8266 for the tool to recognise it) and click "Save to ESP" for each of the 3 files. Don't forget to set your SSID and password before you upload init.lua!
+
+## Authors
+
+* **Jaro Meyer** - *Initial work* - [PurpleBooth](https://github.com/o0pwnd0o)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
