@@ -1,6 +1,6 @@
 # miningmonitor
 
-A simple ESP8266 program to show Ethereum price and stats from your mining rig running on nanopool on an OLED display. It is based on this project: https://hackaday.io/project/28610-crypto-ticker.
+Simple ESP8266 program to show Ethereum price and stats from your mining rig on an OLED display
 
 ## Getting Started
 
