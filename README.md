@@ -12,11 +12,11 @@ Connect 3.3v to 3.3v, GND to GND, SDA to D3 and SCL to D4. You can use other GPI
 
 ### Flashing the firmware
 
-You can either use the included NodeMCU build or make your own at nodemcu-build.com. Just make sure that the modules cjson, file, gpio, http, i2c, net, node, tmr, u8g, uart, wifi and the fonts fub14 and 6x10 are included. You also need to tick 'TLS/SSL support' towards the bottom of the page. Flash the firmware with your preffered tool. I used this one: https://github.com/marcelstoer/nodemcu-pyflasher.
+You can either use the included NodeMCU build or make your own at https://nodemcu-build.com/. Just make sure that the modules cjson, file, gpio, http, i2c, net, node, tmr, u8g, uart, wifi and the fonts fub14 and 6x10 are included. You also need to tick 'TLS/SSL support' towards the bottom of the page. Flash the firmware with your preferred tool. I used this one: https://github.com/marcelstoer/nodemcu-pyflasher.
 
 ### Uploading the code
 
-Again you can use your preffered tool but I recommend [ESPlorer](https://esp8266.ru/esplorer). In ESPlorer, open the 3 LUA files in the left part, connect to your ESP8266 (sometimes you have to reset the ESP8266 for the tool to recognise it) and click "Save to ESP" for each of the 3 files. Don't forget to set your SSID and password before you upload init.lua!
+Again you can use your preferred tool but I recommend [ESPlorer](https://esp8266.ru/esplorer). In ESPlorer, open the 3 LUA files in the left part, connect to your ESP8266 (sometimes you have to reset the ESP8266 for the tool to recognise it) and click "Save to ESP" for each of the 3 files. Also don't forget to set your SSID and password before you upload init.lua!
 
 ## Authors
 
