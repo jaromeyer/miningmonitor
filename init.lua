@@ -1,6 +1,6 @@
 wifi.setmode(wifi.STATION)
 station_cfg={}
-station_cfg.ssid="YOURSSID"
+station_cfg.ssid="YOUR_SSID"
 station_cfg.pwd="PASSWORD"
 station_cfg.save=true
 wifi.sta.config(station_cfg)
