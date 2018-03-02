@@ -16,7 +16,7 @@ http.get("https://api.coinmarketcap.com/v1/ticker/ethereum/?convert=CHF", nil, f
 end
 
 function getpoolstats()
-http.get("https://api.nanopool.org/v1/eth/user/0x4784d0b8fdbb3df590c606aca3356522ced4070a", nil, function(code, datapoolstats)
+http.get("https://api.nanopool.org/v1/eth/user/ETHEREUM_WALLET_FOR_NANOPOOL", nil, function(code, datapoolstats)
     if (code < 0) then
       pooloffline=true
     else
