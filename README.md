@@ -20,7 +20,7 @@ Again you can use your preffered tool but I recommend [ESPlorer](https://esp8266
 
 ## Authors
 
-* **Jaro Meyer** - *Initial work* - [PurpleBooth](https://github.com/o0pwnd0o)
+* **Jaro Meyer** - *Initial work* - [o0pwnd0o](https://github.com/o0pwnd0o)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
