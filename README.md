@@ -4,7 +4,7 @@ Simple ESP8266 program to show Ethereum price and stats from your mining rig on 
 
 ## Getting Started
 
-You will need an ESP8266 board and a SD1306 OLED display to build this project.
+You will need an ESP8266 board and an SD1306 OLED display to build this project.
 
 ### Wiring
 
