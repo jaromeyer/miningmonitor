@@ -23,8 +23,6 @@ Again you can use your preferred tool but I recommend [ESPlorer](https://esp8266
 * **kieranc** - *Initial work* - [kieranc](https://hackaday.io/KieranC001)
 * **Jaro Meyer** - *Adding support for Ethereum, mining stats and various other things* - [o0pwnd0o](https://github.com/o0pwnd0o)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
